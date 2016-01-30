@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/"
+	version="2005-1" xml:lang="en">
+
+	<head>
+		<meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/25545"/>
+	</head>
+
+<docTitle>
+    <text>Alhuganduge Dhuvahu Foiy</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Tha aaraf</text>
+      </navLabel>
+      <content src="Text/content0002.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Gaumee khidhumathugai</text>
+      </navLabel>
+      <content src="Text/content0003.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1 Vana Baabu – Kureege Aharuthah, 1938 in 1947 ah</text>
+      </navLabel>
+      <content src="Text/content0005.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>2 Vana Baabu – Sosun Villa, 1948 in 1956 ah</text>
+      </navLabel>
+      <content src="Text/content0007.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>3 Vana Baabu – Kankuranvaa goi Dhaskurun, 1956</text>
+      </navLabel>
+      <content src="Text/content0011.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>4 Vana Baabu – Apprentice, 1956 in 1958 ah</text>
+      </navLabel>
+      <content src="Text/content0015.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>5 Vana Baabu – Commercial Secretary, 1958 in 1959 ah</text>
+      </navLabel>
+      <content src="Text/content0019.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>6 Vana Baabu – Dhekunuge Baqaavai, 1959 in 1963 ah</text>
+      </navLabel>
+      <content src="Text/content0022.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>7 Vana Baabu – Halaboli dhuvasvareh, 1962</text>
+      </navLabel>
+      <content src="Text/content0025.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>8 Vana Baabu – Muvaasalaathu, 1962 in 1964 ah</text>
+      </navLabel>
+      <content src="Text/content0029.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>9 Vana Baabu – Airport aa Minivankan, 1964 in 1965 ah</text>
+      </navLabel>
+      <content src="Text/content0032.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>10 Vana Baabu – Minivankan libumahfahu Shippinge Viyafaari 1965-1967</text>
+      </navLabel>
+      <content src="Text/content0036.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>11 Vana Baabu – Insaanee Vaseelaiy 1967</text>
+      </navLabel>
+      <content src="Text/content0040.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>12 Vana Baabu – Masverikamaai Fathuruverikan 19667 - 1973</text>
+      </navLabel>
+      <content src="Text/content0044.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>13 Vana Baabu – Than badhaluvun 1973 in 1975 ah</text>
+      </navLabel>
+      <content src="Text/content0047.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>14 Vana Baabu – Anekkaaves Gan 1975 in 1976 ah</text>
+      </navLabel>
+      <content src="Text/content0051.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>15 Vana Baabu – Muvaasalaathee Gulhun 1974 in 1978 ah</text>
+      </navLabel>
+      <content src="Text/content0054.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>16 Vana Baabu – Verikan Badhaluvun 1978</text>
+      </navLabel>
+      <content src="Text/content0058.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>17 Vana Baabu – Khaasa Musheeru 1979</text>
+      </navLabel>
+      <content src="Text/content0062.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>18 Vana Baabu – Baqaawathaai Islamee Marulazu Binaakurun, 1980 in 1984 ah</text>
+      </navLabel>
+      <content src="Text/content0066.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>19 Vana Baabu – Vayaai Kandu 1984</text>
+      </navLabel>
+      <content src="Text/content0070.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>20 Vana Baabu – Tourism aai Masverikan 1984 in 1986 ah</text>
+      </navLabel>
+      <content src="Text/content0074.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>21 Vana Baabu – Muvaasalaatheekanthahthah Kurieruvun 1986</text>
+      </navLabel>
+      <content src="Text/content0079.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>22 Vana Baabu – Dhiraagu 1988</text>
+      </navLabel>
+      <content src="Text/content0082.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>23 Vana Baabu – Mashroou thah 1986 in 1995 ah</text>
+      </navLabel>
+      <content src="Text/content0086.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>24 Vana Baabu – MSL 1990 ge aharuthakuge thereygai</text>
+      </navLabel>
+      <content src="Text/content0094.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>25 Vana Baabu – Massalathah Hallu kurun 1998 in 2001 ah</text>
+      </navLabel>
+      <content src="Text/content0098.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

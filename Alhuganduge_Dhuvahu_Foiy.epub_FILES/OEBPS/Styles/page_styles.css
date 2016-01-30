@@ -1,0 +1,16 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "MV Faseyha";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/MVFaseyha.otf)
+    }
+@font-face {
+    font-family: "MV Waheed";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/waheed.otf)
+    }

@@ -1,0 +1,206 @@
+.calibre {  
+    display: block;
+    font-family: "MV Faseyha";
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt;
+    writing-mode: rl-tb;
+    }
+.calibre1 {
+    display: block;
+    text-align: center
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
+.calibre3 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    text-indent: 0;
+    margin: 0;
+    border: 1;
+    width: 75%
+    }
+.calibre8 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre9 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px;
+    border: black solid 1px
+    }
+.calibre10 {
+    display: inline-block;
+    height: 20.11em;
+    line-height: 1.2
+    }
+.calibre11 {
+    height: auto;
+    line-height: 1.2;
+    max-width: 100%;
+    width: auto
+    }
+.calibre12 {
+    display: inline-block;
+    height: 20.46em;
+    line-height: 1.2
+    }
+.calibre13 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    orphans: 2;
+    text-align: justify;
+    text-indent: 1.5em;
+    widows: 2;
+    margin: 0
+    }
+.caption {
+    color: #000;
+    display: block;
+    font-family: "MV Waheed";
+    writing-mode: rl-tb;
+    font-size: 0.75em;
+    font-style: italic;
+    line-height: 1.2;
+    orphans: 2;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 0;
+    widows: 2;
+    margin: 0
+    }
+.caption1 {
+    color: #000;
+    display: block;
+    font-family: "MV Waheed";
+    writing-mode: rl-tb;
+    font-size: 0.83333em;
+    font-style: italic;
+    line-height: 1.2;
+    orphans: 2;
+    page-break-after: avoid;
+    text-align: right;
+    text-indent: 1.5em;
+    widows: 2;
+    margin: 1em 0 0.3em
+    }
+.center {
+    display: block;
+    font-family: "MV Waheed";
+    writing-mode: rl-tb;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 0;
+    margin: 4em 0 2em
+    }
+.center1 {
+    display: block;
+    font-family: "MV Waheed";
+    writing-mode: rl-tb;
+    font-size: 1em;
+    line-height: 1.2;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.center2 {
+    height: auto;
+    line-height: 1.2;
+    max-width: 100%;
+    text-align: center;
+    text-indent: 0;
+    width: auto
+    }
+.center3 {
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+    text-indent: 0;
+    width: auto
+    }
+.centered_image {
+    display: block;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    text-align: center;
+    width: 100%
+    }
+.centered_image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    text-align: center;
+    width: 100%
+    }
+.listnumbers {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.right {
+    display: block;
+    font-family: "MV Faseyha";
+    writing-mode: rl-tb;
+    font-size: 1em;
+    line-height: 1.2;
+    orphans: 2;
+    padding-right: 20px;
+    text-align: right;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.right1 {
+    display: block;
+    font-family: "MV Faseyha";
+    writing-mode: rl-tb;
+    font-size: 1em;
+    line-height: 1.2;
+    orphans: 2;
+    padding-right: 20px;
+    text-align: right;
+    text-indent: 0;
+    widows: 2;
+    margin: 0
+    }
+.right2 {
+    display: list-item;
+    font-family: "MV Faseyha";
+    writing-mode: rl-tb;
+    padding-right: 20px;
+    text-align: right
+    }
+
